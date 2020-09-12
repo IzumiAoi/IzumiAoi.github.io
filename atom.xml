@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-12T03:31:13.436Z</updated>
+  <updated>2020-09-12T04:33:21.605Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,35 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试</title>
-    <link href="http://example.com/2020/09/12/%E6%B5%8B%E8%AF%95/"/>
-    <id>http://example.com/2020/09/12/%E6%B5%8B%E8%AF%95/</id>
-    <published>2020-09-12T03:31:13.000Z</published>
-    <updated>2020-09-12T03:31:13.436Z</updated>
+    <title>欢迎</title>
+    <link href="http://example.com/2020/09/12/%E6%AC%A2%E8%BF%8E/"/>
+    <id>http://example.com/2020/09/12/%E6%AC%A2%E8%BF%8E/</id>
+    <published>2020-09-12T04:32:08.000Z</published>
+    <updated>2020-09-12T04:33:21.605Z</updated>
     
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2020/09/12/hello-world/"/>
-    <id>http://example.com/2020/09/12/hello-world/</id>
-    <published>2020-09-12T03:26:34.112Z</published>
-    <updated>2020-09-12T03:26:34.112Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="欢迎！"><a href="#欢迎！" class="headerlink" title="欢迎！"></a>欢迎！</h1><h3 id="boshi1-ink是一个由我自费运营的网站，"><a href="#boshi1-ink是一个由我自费运营的网站，" class="headerlink" title="boshi1.ink是一个由我自费运营的网站，"></a><u>boshi1.ink</u>是一个由我自费运营的网站，</h3><h3 id="因为托管在-GitHub-Pages-，所以访问速度很慢。"><a href="#因为托管在-GitHub-Pages-，所以访问速度很慢。" class="headerlink" title="因为托管在 GitHub Pages ，所以访问速度很慢。"></a>因为托管在 GitHub Pages ，所以访问速度很慢。</h3><h3 id="我会在这里发布一些班级事务相关的东西，"><a href="#我会在这里发布一些班级事务相关的东西，" class="headerlink" title="我会在这里发布一些班级事务相关的东西，"></a>我会在这里发布一些班级事务相关的东西，</h3><h3 id="或者一些我的想法、我想说的话。"><a href="#或者一些我的想法、我想说的话。" class="headerlink" title="或者一些我的想法、我想说的话。"></a>或者一些我的想法、我想说的话。</h3><h3 id="感谢你的支持！"><a href="#感谢你的支持！" class="headerlink" title="感谢你的支持！"></a>感谢你的支持！</h3><p>老班长/2020.9.12</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h1 id=&quot;欢迎！&quot;&gt;&lt;a href=&quot;#欢迎！&quot; class=&quot;headerlink&quot; title=&quot;欢迎！&quot;&gt;&lt;/a&gt;欢迎！&lt;/h1&gt;&lt;h3 id=&quot;boshi1-ink是一个由我自费运营的网站，&quot;&gt;&lt;a href=&quot;#boshi1-ink是一个由我自费运营的网站，&quot; c</summary>
       
     
     
     
+    
+    <category term="Hello World" scheme="http://example.com/tags/Hello-World/"/>
     
   </entry>
   
