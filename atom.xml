@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-12T05:07:20.734Z</updated>
+  <updated>2020-10-07T02:57:13.649Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博一速报</title>
+    <link href="http://example.com/2020/10/07/%E5%8D%9A%E4%B8%80%E9%80%9F%E6%8A%A5/"/>
+    <id>http://example.com/2020/10/07/%E5%8D%9A%E4%B8%80%E9%80%9F%E6%8A%A5/</id>
+    <published>2020-10-07T02:22:58.000Z</published>
+    <updated>2020-10-07T02:57:13.649Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="博一速报！"><a href="#博一速报！" class="headerlink" title="博一速报！"></a>博一速报！</h1><h3 id="本栏目用于播送博识一班的最新新闻。"><a href="#本栏目用于播送博识一班的最新新闻。" class="headerlink" title="本栏目用于播送博识一班的最新新闻。"></a>本栏目用于播送博识一班的最新新闻。</h3><h4 id="2020-10-7"><a href="#2020-10-7" class="headerlink" title="2020-10-7"></a>2020-10-7</h4><h5 id="两位班长与班主任就班级管理和未来计划方面交换了意见。"><a href="#两位班长与班主任就班级管理和未来计划方面交换了意见。" class="headerlink" title="-两位班长与班主任就班级管理和未来计划方面交换了意见。"></a>-两位班长与班主任就班级管理和未来计划方面交换了意见。</h5>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;博一速报！&quot;&gt;&lt;a href=&quot;#博一速报！&quot; class=&quot;headerlink&quot; title=&quot;博一速报！&quot;&gt;&lt;/a&gt;博一速报！&lt;/h1&gt;&lt;h3 id=&quot;本栏目用于播送博识一班的最新新闻。&quot;&gt;&lt;a href=&quot;#本栏目用于播送博识一班的最新新闻。&quot; class</summary>
+      
+    
+    
+    
+    <category term="News" scheme="http://example.com/categories/News/"/>
+    
+    
+    <category term="Shortcut" scheme="http://example.com/tags/Shortcut/"/>
+    
+  </entry>
   
   <entry>
     <title>欢迎</title>
